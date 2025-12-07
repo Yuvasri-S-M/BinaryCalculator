@@ -23,7 +23,7 @@ Built using **Tkinter** with clean UI and real-time binary conversion.
 ## 🖼️ Output Screenshots
 
 ### Addition Example
-![Addition](addition.png)
+![Addition](C:\Users\yuvas\OneDrive\Desktop\Yuva works\Binary Calculator\addition.png)
 
 ### Subtraction Example
 ![Subtraction](subtraction.png)
@@ -33,6 +33,8 @@ Built using **Tkinter** with clean UI and real-time binary conversion.
 
 ### Division Example 
 ![Division](division.png)
+
+### Division Error Handling
 ![Error](divisionerror.png)
 
 
