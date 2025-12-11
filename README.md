@@ -16,7 +16,6 @@ Built using **Tkinter** with clean UI and real-time binary conversion.
   - Binary format
   - Decimal format
 - Error handling (invalid input, division by zero)
-- Simple and interactive Tkinter interface
 
 ---
 
